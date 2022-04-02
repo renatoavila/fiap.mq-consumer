@@ -1,4 +1,4 @@
-package br.com.fiap.ms.login;
+package br.com.fiap.mq.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
